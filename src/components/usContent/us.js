@@ -1,17 +1,6 @@
 import React from "react";
 import './us.css';
-import gsap from 'gsap';
-import usPhoto from '../../assets/us-photo.jpg';
 class Page extends React.Component {
-    constructor(props){
-        super(props);
-
-    }
-
-    componentDidMount() {
-        //this.animation = gsap.to(this.mainContent, {duration:2, y: -290, opacity: 1});
-    }
-
     render() {
         return (
             <div className='us'>

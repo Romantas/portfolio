@@ -1,7 +1,7 @@
 import React from "react";
 import './page.css';
 import gsap from 'gsap';
-import Header from "../header/header";
+import Header from "../header/Header";
 import MainContent from "../mainContent/main";
 import Background from "../background/background";
 import Us from "../usContent/us";
